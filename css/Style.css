@@ -1,0 +1,11 @@
+.total-price {
+  position: fixed;
+  background-color: tomato;
+  color: blueviolet;
+  bottom: 520px;
+  left: 310px;
+  width: 68%;
+}
+body {
+  padding-bottom: 50px;
+}
